@@ -56,9 +56,9 @@ Pose estimation is a computer vision task that infers the pose of a person or ob
 3) One of the most important features of the Random Forest Algorithm is that it can handle the data set containing continuous variables as in the case of regression and categorical variables as in the case of classification. It performs better results for classification problems.
 
 ### Reference 
-Mediepipe : https://google.github.io/mediapipe/solutions/pose.html
-Sklearn : https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
-Nicholas Renotte(video reference) : https://www.youtube.com/watch?v=H7cGq0xIHbc&t=278s
+1) Mediepipe : https://google.github.io/mediapipe/solutions/pose.html
+2) Sklearn : https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+3) Nicholas Renotte(video reference) : https://www.youtube.com/watch?v=H7cGq0xIHbc&t=278s
 
 
 
