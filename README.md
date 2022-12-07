@@ -35,5 +35,5 @@ Pose estimation is a computer vision task that infers the pose of a person or ob
 
 7) After Training the model . It’s time to use it
 
-Then load and integrate the model in detection  code with the help of pickle 
+8) Then load and integrate the model in detection  code with the help of pickle 
 
