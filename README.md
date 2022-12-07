@@ -37,3 +37,16 @@ Pose estimation is a computer vision task that infers the pose of a person or ob
 
 8) Then load and integrate the model in detection  code with the help of pickle 
 
+
+### Algorithm 
+
+1) Classifier use in this model Random forest
+
+2) Random forest is a Supervised Machine Learning Algorithm that is used widely in Classification and Regression problems. It builds decision trees on different samples and takes their majority vote for classification and average in case of regression.
+
+3) One of the most important features of the Random Forest Algorithm is that it can handle the data set containing continuous variables as in the case of regression and categorical variables as in the case of classification. It performs better results for classification problems.
+
+
+
+
+
