@@ -32,7 +32,6 @@ Pose estimation is a computer vision task that infers the pose of a person or ob
 
 4) Each Landmarks have Values of x , y , z and visibility in it
 
-Pose Landmark Model :
 ![image](https://user-images.githubusercontent.com/90369532/206222280-536d7f3a-6cb4-4996-958f-99eeea6ca9d7.png)
 
 
