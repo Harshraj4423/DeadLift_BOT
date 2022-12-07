@@ -16,3 +16,20 @@ Pose estimation is a computer vision task that infers the pose of a person or ob
 
 
 ### Workflow 
+
+So, First we need to collect data for Our ML model.
+
+From this data Our model will able to actually sees(both input and output) and learns from
+
+By using mp.solutions.pose  we will be able to track Body and landmarks
+
+Each Landmarks have Values of x , y , z and visibility in it
+
+We just can’t use this coords, its need to be converted in np.array
+
+Once we had our data we need to feed it to our machine learning
+
+After Training the model . It’s time to use it
+
+Then load and integrate the model in detection  code with the help of pickle 
+![image](https://user-images.githubusercontent.com/90369532/206215684-8b49862d-3b4c-4cbc-96fe-efa80bd3c3ea.png)
