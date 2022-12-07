@@ -13,3 +13,6 @@ Pose estimation is a computer vision task that infers the pose of a person or ob
 4) Collecting keypoints for specific  Poses (Example : ‘up’ , ‘down’ (in this case) ) Save  them in csv file.
 
 5) Build a Custom Trained Scikit Learn Classifier Model.
+
+
+### Workflow 
